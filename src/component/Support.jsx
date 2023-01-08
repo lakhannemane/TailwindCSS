@@ -56,8 +56,7 @@ const Support = () => {
               <p className="text-gray-600 text-xl">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Voluptatibus, quo iusto reiciendis, doloribus repellendus
-                eveniet repellat impedit delectus ad voluptatem, nobis quisquam
-                perspiciatis.
+                eveniet .
               </p>
             </div>
             <div className="bg-slate-100 pl-8 py-4">
