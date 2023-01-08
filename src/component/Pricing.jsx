@@ -16,9 +16,6 @@ const Pricing = () => {
           <p className="md:text-3xl text-2xl text-slate-300 ">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse,
             quaerat veniam placeat sed fuga explicabo voluptate voluptatem
-            voluptates sint perferendis fugit, saepe quam rerum asperiores sunt
-            ut excepturi incidunt! Possimus deserunt deleniti magni similique
-            cupiditate
           </p>
         </div>
 
