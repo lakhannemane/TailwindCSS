@@ -15,13 +15,13 @@ const Support = () => {
       </div>
       <div className="max-w-[1240px] mx-auto text-white relative">
         <div className="px-4 py-12">
-          <h2 className="text-3xl pt-8 text-slate-300 uppercase text-center">
+          <h2 className="md:text-3xl text-2xl pt-8 text-slate-300 uppercase text-center">
             Support
           </h2>
-          <h3 className="text-5xl font-bold py-6 text-center">
+          <h3 className="md:text-5xl text-3xl font-bold py-6 text-center">
             FInding the right team
           </h3>
-          <p className="py-4 text-3xl text-slate-300">
+          <p className="py-4 md:text-3xl text-2xl text-slate-300">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Necessitatibus, et tempora consectetur eum ut magni laboriosam
             totam. Tempore, recusandae optio. Lorem ipsum dolor sit amet
