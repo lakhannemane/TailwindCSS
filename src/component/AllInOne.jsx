@@ -5,8 +5,10 @@ const AllInOne = () => {
   return (
     <div className="w-full my-32">
       <div className="max-w-[1240px] mx-auto">
-        <h2 className="text-5xl font-bold text-center">All-In-One Platform</h2>
-        <p className="text-2xl py-8 text-gray-500 text-center">
+        <h2 className="md:text-5xl  text-3xl  font-bold text-center">
+          All-In-One Platform
+        </h2>
+        <p className="md:text-2xl  text-xl py-8 text-gray-500 text-center">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem aliquid,
           suscipit asperiores officiis veniam aut hic, ipsum numquam voluptatum,
           non nulla ut facilis.

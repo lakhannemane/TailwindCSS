@@ -55,14 +55,14 @@ const Footer = () => {
             The latest news, articles, and resources, sent to your inbox weekly
           </p>
           <form action="" className="flex py-3 flex-col sm:flex-row">
-            <input type="email" className="w-full mr-4 rounded py-2 " />
-            <button className="px-2">Subscribe</button>
+            <input type="email" className="w-full mr-4  mb-2 rounded py-2 " />
+            <button className="py-2 px-3">Subscribe</button>
           </form>
         </div>
       </div>
-      <div className="max-w-[1240px] m-auto px-2 py-4 sm:flex-row  items-center text-gray-300 justify-between flex ">
-        <p className="text-gray-300">2023 workflow, LLC. All rights reserved</p>
-        <div className="flex justify-between items-center sm:max-w-[300px] text-2xl ">
+      <div className="max-w-[1240px] m-auto flex sm:flex-row py-3 items-center justify-between ">
+        <p className="text-gray-400">2023 workflow, LLC. All rights reserved</p>
+        <div className="flex justify-between  sm:max-w-[400px] text-2xl ">
           <FaFacebook />
           <FaInstagram />
           <FaTwitter />

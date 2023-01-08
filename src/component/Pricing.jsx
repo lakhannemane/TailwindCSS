@@ -7,11 +7,13 @@ const Pricing = () => {
       <div className="w-full h-[800px] bg-slate-900 absolute mix-blend-overlay"></div>
       <div className="max-w-[1240px] mx-auto py-12">
         <div className="text-center py-8 ">
-          <h2 className="text-3xl text-slate-300 uppercase">Pricing</h2>
-          <h3 className="text-5xl font-bold text-white py-8">
+          <h2 className="md:text-3xl text-2xl text-slate-300 uppercase">
+            Pricing
+          </h2>
+          <h3 className="md:text-5xl text-3xl font-bold text-white py-8">
             The right price for your research.
           </h3>
-          <p className="text-3xl text-slate-300 ">
+          <p className="md:text-3xl text-2xl text-slate-300 ">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse,
             quaerat veniam placeat sed fuga explicabo voluptate voluptatem
             voluptates sint perferendis fugit, saepe quam rerum asperiores sunt
